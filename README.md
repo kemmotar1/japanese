@@ -1,2 +1,2 @@
-# japanese
+# Japanese
 Japanese Web and App
